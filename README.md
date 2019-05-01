@@ -4,7 +4,8 @@ the player will find obstacles in his way. Different levels will change the play
 in the video.
 
 # Video demonstration with explanation of design choice.
-[Click Here to view video](https://youtu.be/2LJzYsW9aGc)
+
+[![Click here to go to my video demonstration](https://img.youtube.com/vi/2LJzYsW9aGc/0.jpg)](https://www.youtube.com/watch?v=2LJzYsW9aGc)
 
 # Credits
 Many of the objects you see in the video were obtained for free using the asset store . Here are the assets.
